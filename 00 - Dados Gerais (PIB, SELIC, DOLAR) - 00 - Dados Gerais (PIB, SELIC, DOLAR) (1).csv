@@ -1,4 +1,4 @@
-DateTime,PIB,PIB_POR,PIB_Const,PIB_Const_POR,Ibovespa,Dolar,Selic,Desemprego,IPCA_acu_ano,IPCA_mês,Salario,Consc_Credito_Pjuridica,Consc_Credito_Pfisica,Concs_Total,Cesta_Basica
+DateTime,PIB,PIB_POR,PIB_Const,PIB_Const_POR,Ibovespa,Dolar,Selic,Desemprego,IPCA_acu_ano,IPCA_mês,Salario,Conc_Credito_Pjuridica,Conc_Credito_Pfisica,Conc_Total,Cesta_Basica
 01/2013,"2,473",,,,"59761,5","2,037",7.14,7.2,6.15,"0,86",678,110270,124895,235165,"287,94"
 02/2013,"2,473",,,,"57424,3","1,96",7.12,7.7,6.31,"0,6",678,107509,115171,222680,"286,34"
 03/2013,"2,473",2.2,"68076,199","1,5","56352,1","1,975",7.12,8,6.59,"0,47",678,123133,121230,244363,"287,78"
